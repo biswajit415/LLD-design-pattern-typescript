@@ -1,5 +1,5 @@
 {
-  "name": "visitor-design",
+  "name": "command-design",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
